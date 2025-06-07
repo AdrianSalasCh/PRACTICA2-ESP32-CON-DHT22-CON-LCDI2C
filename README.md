@@ -89,5 +89,21 @@ void loop() {
 
 3. Hacer la conexion de DHT11 con la ESP32 y el LCD 16x2 (I2C) como se muestra en la siguente imagen.
 
+![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/CONEXION%20P2.PNG)
 
+### Instrucciónes de operación
 
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial y en el LCD.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11**
+
+## RESULTADOS
+
+Cuando haya funcionado, verás los valores dentro del monitor serial y en el LCD como se muestra en la siguente imagen.
+
+![]()
+
+## CRÉDITOS
+
+Desarrollado por Ing. Luis Adrián Salas Chávez
+- [GitHub](https://github.com/)
