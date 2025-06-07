@@ -83,4 +83,6 @@ void loop() {
    - **LiquidCrystal I2C**
    Como se muestra en las siguentes imagenes.
 
+![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/DHT%20sensor%20library%20for%20ESPx%20P2.PNG)
 
+![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/LiquidCrystal%20I2C.PNG)
