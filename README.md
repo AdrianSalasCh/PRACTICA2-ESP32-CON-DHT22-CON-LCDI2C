@@ -101,7 +101,7 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y en el LCD como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/SIMULACI%C3%93N%20TERMINADA%20P2.PNG)
 
 ## CRÉDITOS
 
