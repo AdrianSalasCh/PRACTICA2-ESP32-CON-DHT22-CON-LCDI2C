@@ -86,3 +86,8 @@ void loop() {
 ![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/DHT%20sensor%20library%20for%20ESPx%20P2.PNG)
 
 ![](https://github.com/AdrianSalasCh/PRACTICA2-ESP32-CON-DHT22-CON-LCDI2C/blob/main/LiquidCrystal%20I2C.PNG)
+
+3. Hacer la conexion de DHT11 con la ESP32 y el LCD 16x2 (I2C) como se muestra en la siguente imagen.
+
+
+
